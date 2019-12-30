@@ -196,8 +196,7 @@ def main(_):
                         + [0] * (FLAGS.batch_size - len(filenames)))
                     _, losses = sess.run([optimizer, loss], feed_dict={x_input: image_mix, x_raw:image_raw,raw_class_input: raw_class_for_batch,learning_rate: lr})
                     print(losses)
-                    if(losses>=6.7):
-                        #print('GRADIENT DISVERAGED! RESTORE IMMEDIATELY! \nIF THIS SITUATION REPEATS, REDUCE THE LEARNING RATE!')
+                    if(losses>=6.7):  
                         s1.restore(sess, FLAGS.checkpoint_path_resnet_v2)
                         continue
                     s1.save(sess,savepath)
