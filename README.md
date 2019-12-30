@@ -10,7 +10,7 @@ We evaluated Linf norm attack in 16 epsilon with 200 iterations to this model, o
 We have removed some of transformations from this paper, because they cost too much time.
 
 This project was built in:
-Tensorflow 1.14.0
-scipy 1.1.0
-scikit-image 0.16.2
-Pillow 6.0.0
+Tensorflow 1.14.0  
+scipy 1.1.0  
+scikit-image 0.16.2  
+Pillow 6.0.0  
