@@ -1,6 +1,7 @@
 # BaRTDefense
-An unofficial reimplementation of BaRT Defense
-From paper 《Barrage of Random Transforms for Adversarially Robust Defense》
+An unofficial reimplementation of BaRT Defense  
+From paper 《Barrage of Random Transforms for Adversarially Robust Defense》  
+This project are mainly based on the codes from the paper's supplement.
 
 link: http://openaccess.thecvf.com/content_CVPR_2019/html/Raff_Barrage_of_Random_Transforms_for_Adversarially_Robust_Defense_CVPR_2019_paper.html
 
