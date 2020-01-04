@@ -15,3 +15,6 @@ Tensorflow 1.14.0
 scipy 1.1.0  
 scikit-image 0.16.2  
 Pillow 6.0.0  
+
+Download the checkpoint here:
+https://pan.baidu.com/s/1yAqmqfSODylaZQuF8nZ3vw
