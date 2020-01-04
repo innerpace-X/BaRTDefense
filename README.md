@@ -1,5 +1,5 @@
 # BaRTDefense
-An unofficial reimplementation of BaRT Defense  
+An unofficial implementation of BaRT Defense  
 From paper 《Barrage of Random Transforms for Adversarially Robust Defense》  
 This project ismainly based on the codes from the paper's supplement.
 
