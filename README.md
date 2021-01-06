@@ -1,4 +1,6 @@
 # BaRTDefense
+NOTE : THIS IMPLEMENTATION MAY NOT COMPLETELY CORRECT DUE TO ITS ORIGINAL USAGE.
+
 An unofficial implementation of BaRT Defense  
 From paper 《Barrage of Random Transforms for Adversarially Robust Defense》  
 This project ismainly based on the codes from the paper's supplement.
